@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya_1309" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-rallapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya_1309" height="30" width="40" /></a>
 <a href="https://instagram.com/imaditya_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaditya_1309" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/itsaditya0902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsaditya0902" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityarallapalli1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityarallapalli1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aditya_1309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditya_1309/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityarallapall1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityarallapalli1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aditya_1309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditya_1309/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aditya_0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya_0902" height="30" width="40" /></a>
 </p>
 

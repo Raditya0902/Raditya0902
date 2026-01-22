@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Rallapalli</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">MS Data Science @ASU | Aspiring AI/ML Engineer | Seeking Summer 2026 Internship | AI, LLMs, ML, Data Science</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> 
 

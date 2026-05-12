@@ -75,9 +75,9 @@
 |--------|-------------|-------|------|
 | 🔐 **SentinelMesh** | Policy-enforced multi-agent orchestration with a custom Go Deep Prompt Inspection proxy — blocks prompt injection, PII leakage, and RBAC violations in real time | LangGraph, Go, ChromaDB, FastAPI, Docker | [Repo](https://github.com/Raditya0902/sentinelmesh) |
 | 🚨 **Incident Response System** | Fully autonomous AI pipeline that diagnoses production errors, generates & tests code patches, drafts customer replies, and opens a GitHub PR — with a human approval gate | LangGraph, Groq, ChromaDB, Streamlit, GitHub API | [Repo](https://github.com/Raditya0902/multi-agent-production-incident-response-system) |
-| 🏥 **Clinic Voice Agent** | Real-time phone voice agent for clinic appointment booking built on raw Twilio Media Streams — no hosted platform, full STT → LangGraph → TTS pipeline | Twilio, Deepgram, ElevenLabs, LangGraph, FastAPI | [Repo](#) |
+| 🏥 **Clinic Voice Agent** | Real-time phone voice agent for clinic appointment booking built on raw Twilio Media Streams — no hosted platform, full STT → LangGraph → TTS pipeline | Twilio, Deepgram, ElevenLabs, LangGraph, FastAPI | [Repo](https://github.com/Raditya0902/clinic-voice-agent) |
 | 🔒 **RAG RBAC Chatbot** | Enterprise knowledge-base chatbot with namespace-scoped retrieval, JWT auth, hybrid BM25 + vector search, PII redaction, and Llama Guard safety — RAGAS faithfulness 0.91 | LangChain, ChromaDB, FastAPI, Redis, Streamlit | [Repo](https://github.com/Raditya0902/rag-rbac-chatbot) |
-| 🧬 **Non-Linear Code Refactoring** | Formal study proving Discrete Latent Diffusion Models (LLaDA 1.5 + Path-Guided Unmasking) outperform autoregressive models on complex cross-file refactoring tasks | LLaDA 1.5, PyTorch, Transformers | [Repo](#) |
+| 🧬 **Non-Linear Code Refactoring** | Formal study proving Discrete Latent Diffusion Models (LLaDA 1.5 + Path-Guided Unmasking) outperform autoregressive models on complex cross-file refactoring tasks | LLaDA 1.5, PyTorch, Transformers | [Repo](https://github.com/Raditya0902/diffuse-refactor) |
 
 ---
 

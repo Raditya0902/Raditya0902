@@ -1,37 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aditya Rallapalli</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi there, I'm Aditya Rallapalli 👋</h1>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raditya0902&label=Profile%20views&color=0e75b6&style=flat" alt="raditya0902" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me     <a href="mailto:aditya.rallapalli0902@gmail.com" target="blank"><img align="center" src="https://flat-icons.com/wp-content/uploads/2022/07/Gmail-Icon-Aesthetic.png" alt="" height="30" width="30" /></a>
-
-- 📄 Know about my experiences [Have a look at my resume.](https://drive.google.com/file/d/1EfQwB6LiYnGUQ6095Kn4pwXlz0CDGSN5/view?usp=sharing)
-
-- ⚡ Fun fact: **I'm a chess nerd!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-rallapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya_1309" height="30" width="40" /></a>
-<a href="https://instagram.com/imaditya_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imaditya_1309" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsaditya0902" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsaditya0902" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityarallapall1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityarallapalli1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_1309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aditya_1309/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aditya_0902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aditya_0902" height="30" width="40" /></a>
+<p align="center">
+  <em>Building production AI systems — multi-agent pipelines, LLM safety, and real-time voice AI.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/aditya-rallapalli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/Raditya_1309"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:aditya.rallapalli0902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://my-portfolio-steel-mu-uyd4gsi9wv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raditya0902&theme=github_dark" /></p>
+---
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raditya0902&theme=tokyonight&exclude={exclude}" alt="Aditya Rallapalli" /></p>
+## 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raditya0902&theme=tokyonight" alt="Aditya Rallapalli" /></p>
+- 🔭 I'm currently working on **AI Agents, RAGs, and LLMs**
+- 🌱 I'm learning **System Design, Distributed Systems, Concurrency, Backend Engineering, and AWS**
+- 💬 Ask me about **AI Safety & Evals, Multi-Agent Systems, LLMs, RAG pipelines, or Backend Engineering**
+- 🎯 2026 Goal: **Break into AI/ML engineering and ship a production agent system at scale**
+- ⚡ Fun fact: **Big Tennis and Chess enthusiast — I'll happily watch a 6-hour live chess stream**
 
-<div><p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raditya0902&theme=midnight_purple&exclude={exclude}" /></p>
+---
 
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raditya0902&theme=midnight_purple&utcOffset=8" alt="Aditya Rallapalli" /></p></div>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Safety & Evals**
+
+![Prompt Injection Defense](https://img.shields.io/badge/Prompt%20Injection%20Defense-FF4B4B?style=flat-square&logoColor=white)
+![Llama Guard](https://img.shields.io/badge/Llama%20Guard-0467DF?style=flat-square&logo=meta&logoColor=white)
+![PII Redaction](https://img.shields.io/badge/PII%20Redaction-6A0DAD?style=flat-square&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS%20Evals-00C853?style=flat-square&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+**Systems & Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack | Link |
+|--------|-------------|-------|------|
+| 🔐 **SentinelMesh** | Policy-enforced multi-agent orchestration with a custom Go Deep Prompt Inspection proxy — blocks prompt injection, PII leakage, and RBAC violations in real time | LangGraph, Go, ChromaDB, FastAPI, Docker | [Repo](https://github.com/Raditya0902/sentinelmesh) |
+| 🚨 **Incident Response System** | Fully autonomous AI pipeline that diagnoses production errors, generates & tests code patches, drafts customer replies, and opens a GitHub PR — with a human approval gate | LangGraph, Groq, ChromaDB, Streamlit, GitHub API | [Repo](https://github.com/Raditya0902/multi-agent-production-incident-response-system) |
+| 🏥 **Clinic Voice Agent** | Real-time phone voice agent for clinic appointment booking built on raw Twilio Media Streams — no hosted platform, full STT → LangGraph → TTS pipeline | Twilio, Deepgram, ElevenLabs, LangGraph, FastAPI | [Repo](#) |
+| 🔒 **RAG RBAC Chatbot** | Enterprise knowledge-base chatbot with namespace-scoped retrieval, JWT auth, hybrid BM25 + vector search, PII redaction, and Llama Guard safety — RAGAS faithfulness 0.91 | LangChain, ChromaDB, FastAPI, Redis, Streamlit | [Repo](https://github.com/Raditya0902/rag-rbac-chatbot) |
+| 🧬 **Non-Linear Code Refactoring** | Formal study proving Discrete Latent Diffusion Models (LLaDA 1.5 + Path-Guided Unmasking) outperform autoregressive models on complex cross-file refactoring tasks | LLaDA 1.5, PyTorch, Transformers | [Repo](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raditya0902&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raditya0902&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raditya0902&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting conversations, collaboration, or just a friendly chat.
+
+📫 Reach me at **aditya.rallapalli0902@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/aditya-rallapalli).
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raditya0902&style=flat-square&color=blue" alt="Profile views"/>
+</p>
